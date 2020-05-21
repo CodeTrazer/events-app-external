@@ -1,3 +1,4 @@
+-----
 1. Getting started:
 
 prerequisites: node and npm
